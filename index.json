@@ -1,0 +1,28 @@
+{
+  "videos": [
+    {
+      "categories": ["Cute", "Fun"],
+      "link": "https://something.soemthing/something",
+      "title": "something"
+    },
+    {
+      "categories": ["NSFW"],
+      "ignore": true,
+      "link": "https://something.weird.com",
+      "title": "Careful!"
+    }
+  ],
+  "articles": [
+    {
+      "categories": ["Learning"],
+      "link": "https://learning.center.bla",
+      "title": "Learn this thing right now!!!",
+      "excerpt": "This is something you should learn"
+    },
+    {
+      "categories": ["Psychology"],
+      "link": "https://something.something/something",
+      "title": "Psychology 101"
+    }
+  ]
+}

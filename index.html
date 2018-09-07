@@ -2,38 +2,37 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <!--<link rel="stylesheet" href="index.css">-->
-    <style>
-    </style>
+    <link rel="stylesheet" href="index.css">
     <script src="https://unpkg.com/@webcomponents/webcomponentsjs@2.1.0/webcomponents-loader.js"></script>
   </head>
   <body>
     <script src="https://unpkg.com/@material/mwc-fab@0.1.2/mwc-fab.js?module" type="module"></script>
-    <script src="https://unpkg.com/@material/mwc-dialog/mwc-dialog.js?module" type="module"></script>
-    <mwc-fab id="distract-button" icon="arrow_left"></mwc-fab>
-    <mwc-dialog id="distract-dialog" hidden>
+    <!--<script src="https://unpkg.com/@material/div/div.js?module" type="module"></script>-->
+    <mwc-fab icon="arrow_left" mini></mwc-fab>
+    
+    <div id="distract-button" class="button">Distract Me</div>
+    <div id="distract-dialog" class="dialog hidden">
       List of videos goes here
-    </mwc-dialog>
-    <mwc-fab id="help-button" icon="arrow_left"></mwc-fab>
-    <mwc-dialog id="help-dialog" hidden>
+    </div>
+    <div id="help-button" class="button">Help me</div>
+    <div id="help-dialog" class="dialog hidden">
       <a href="https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy">
         Cognitive Behavioural Therapy (CBT)
       </a> is a psycho-social intervention that aims to improve mental health.
       CBT focuses on challenging and changing unhelpful cognitive distortions (e.g. thoughts, beliefs, and attitudes) and behaviors, improving emotional regulation, and the development of personal coping strategies that target solving current problems.
       Originally, it was designed to treat depression, but its use has been expanded to include treatment of a number of mental health conditions, including anxiety.
-    </mwc-dialog>
-    <mwc-fab id="save-button" icon="arrow_right"></mwc-fab>
-    <mwc-dialog id="save-dialog" hidden>
+    </div>
+    <div id="save-button" class="button">Save Me</div>
+    <div id="save-dialog" class="dialog hidden">
       List of videos goes here
-    </mwc-dialog>
-    <script type="module">
-      function listen(id, event, listener) {
-        document.getElementById(id).addEventListener(event, listener)
-      }
-      listen('save', 'click', e => {
-        alert('save clicked')
-      })
-    </script>
-    <!--<script type="module" src="index.js"></script>-->
+    </div>
+    <div id="profile-button" class="button">Profile</div>
+    <div id="profile-dialog" class="dialog hidden">
+      Who are you!!! D:
+      First Name: <input type="text" name="fname"><br>
+      Last name: <input type="text" name="lname"><br>
+      <input id="save-profile" type="submit">
+    </div>
+    <script src="index.js"></script>
   </body>
 </html>

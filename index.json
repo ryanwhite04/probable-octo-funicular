@@ -1,9 +1,116 @@
 {
+  "music": [
+    {
+      "categories": ["Soothing"],
+      "link": "https://www.youtube.com/watch?v=pRHbl8yM0fc&index=7&list=LL8GwsCsQmB5t9YzMpe2O4_w&t=5s",
+      "title": "Submarine Boy: Boy With A Uke"
+    },
+    {
+      "categories": ["Soothing"],
+      "link": "https://www.youtube.com/watch?v=Wc3epmYIIQw&index=18&list=LL8GwsCsQmB5t9YzMpe2O4_w&t=0s",
+      "title": "Bee & Puppycat: What's Your Favourite Color?"
+    },
+    {
+      "categories": ["Soothing"],
+      "link": "https://www.youtube.com/watch?v=GhDnyPsQsB0&index=26&list=LL8GwsCsQmB5t9YzMpe2O4_w&t=0s",
+      "title": "Bon Iver: Re:Stacks"
+    },
+    {
+      "categories": ["Soothing"],
+      "link": "https://www.youtube.com/watch?v=XKDGZ-VWLMg&index=30&list=LL8GwsCsQmB5t9YzMpe2O4_w&t=0s",
+      "title": "Raining in Tokyo (Lo-Fi Hiphop)"
+    },
+    {
+      "categories": ["Soothing"],
+      "link": "https://www.youtube.com/watch?v=hxFPu5prb0E",
+      "title": "RLife: I Feel Like I'm going To Cry"
+    },
+    {
+      "categories": ["Soothing", "Upbeat"],
+      "link": "https://soundcloud.com/nicosegal/donnie-trumpet-the-social-experiment-sunday-candy",
+      "title": "Donnie Trumpet & The Social Experiment: Sunday Candy"
+    },
+    {
+      "categories": ["Soothing", "Upbeat"],
+      "link": "https://soundcloud.com/stwosc/sango-middle-of-things-1",
+      "title": "Sango ft. SPZRKT: Middle of Things, Beautiful Wife"
+    },
+    {
+      "categories": ["Upbeat"],
+      "link": "https://soundcloud.com/sssshawnnnn/marble-soda-live-mashup-video-link-in-description",
+      "title": "Shawn Wasabi: Marble Soda"
+    },
+    {
+      "categories": ["Upbeat"],
+      "link": "https://soundcloud.com/sssshawnnnn/pusher-clear-ft-mothica-shawn-wasabi-remix",
+      "title": "Clear ft. Mothica: Pusher (Shawn Wasabi remix)"
+    },
+    {
+      "categories": ["Upbeat"],
+      "link": "https://soundcloud.com/sssshawnnnn/shawn-wasabi-otter-pop-ft-hollis",
+      "title": "Shawn Wasabi ft. Hollis: Otter Pop"
+    },
+    {
+      "categories": ["Upbeat", "Soothing"],
+      "link": "https://soundcloud.com/chancetherapper/everyday-wonderful-arthur",
+      "title": "Chance the Rapper & The Social Experiment: Wonderful Everyday: Arthur"
+    },
+  ],
   "videos": [
     {
-      "categories": ["Cute", "Fun"],
-      "link": "https://something.soemthing/something",
-      "title": "something"
+      "categories": ["Education", "Mental-Health"],
+      "link": "https://www.youtube.com/watch?v=eOlzak1hT-E&index=2&list=LL8GwsCsQmB5t9YzMpe2O4_w&t=210s",
+      "title": "Anna Akana: Maintaining Mental Health"
+    },
+    {
+      "categories": ["Education", "Mental-Health"],
+      "link": "https://www.youtube.com/watch?v=zc7G6MJISaI&t=58s",
+      "title": "Anna Akana: What Self Care Really Looks Like"
+    },
+    {
+      "categories": ["Education", "Mental-Health"],
+      "link": "https://www.youtube.com/watch?v=rqnUEj8tA14",
+      "title": "Anna Akana: What To Do When Your Life Falls Apart"
+    },
+    {
+      "categories": ["Education", "Motivation", "Productivity"],
+      "link": "https://www.youtube.com/watch?v=XDxES9XM1nQ&index=13&list=LL8GwsCsQmB5t9YzMpe2O4_w&t=2s",
+      "title": "Freedom In Thought: How To Be Powerful"
+    },
+    {
+      "categories": ["Education", "Motivation", "Productivity"],
+      "link": "https://www.youtube.com/watch?v=mVbrgBjZm60",
+      "title": "Freedom In Thought: Why Self-Discipline Is So Hard"
+    },
+    {
+      "categories": ["Narrative", "Uplifting"],
+      "link": "https://www.youtube.com/watch?v=2REkk9SCRn0&index=34&list=LL8GwsCsQmB5t9YzMpe2O4_w&t=0s",
+      "title": "In A Heartbeat: Animated Short"
+    },
+    {
+      "categories": ["Education", "Mental-Health"],
+      "link": "https://www.youtube.com/watch?v=ao8L-0nSYzg",
+      "title": "Kurzgesagt (In A Nutshell): Addiction"
+    },
+    {
+      "categories": ["Narrative"],
+      "link": "https://www.youtube.com/watch?v=RLAfM1RXwRs",
+      "title": "Rain Town"
+    },
+    {
+      "categories": ["Education", "Motivation"],
+      "link": "https://www.youtube.com/watch?v=JQVmkDUkZT4",
+      "title": "Kurzgesagt (In A Nutshell): What Are You?"
+    },
+    {
+      "categories": ["Education", "Motivation", "Productivity"],
+      "link": "https://www.youtube.com/watch?v=2XkV6IpV2Y0",
+      "title": "Kurzgesagt (In A Nutshell): The History and Future of Everything"
+    },
+    {
+      "categories": ["Narrative", "Uplifting", "CW-Cishet"],
+      "link": "https://vimeo.com/162709769",
+      "title": "Paperman"
     },
     {
       "categories": ["NSFW"],
@@ -23,11 +130,6 @@
       "categories": ["Psychology"],
       "link": "https://something.something/something",
       "title": "Psychology 101"
-    },
-    {
-      "categories": ["Category 3!", "Cats"],
-      "link": "https://foo.bar.com",
-      "title": "Cats 4eva"
     }
   ]
 }
